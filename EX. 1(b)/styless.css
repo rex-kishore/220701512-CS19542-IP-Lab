@@ -1,0 +1,56 @@
+header, .tt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 12px;
+}
+
+td {
+    padding: 6px;
+    font-weight: bold;
+}
+
+tbody tr th {
+    padding: 10px;
+}
+
+.no-border-right {
+    padding-left: 7%;
+    border-right: none;
+}
+
+.no-border-left {
+    border-left: none;
+}
+
+.no-border {
+    border-bottom: none;
+    border-top: none;
+}
+
+.lunch {
+    padding-left: 70px;
+}
+
+.vap { background-color: #f2d7d5; }  /* Example color for VAP */
+.poai { background-color: #d5f2e3; }  /* Example color for POAI */
+.ip { background-color: #f2efd5; }  /* Example color for IP */
+.toc { background-color: #d5eaf2; }  /* Example color for TOC */
+.rpa { background-color: #f2d5eb; }  /* Example color for RPA */
+.cn { background-color: #e1d5f2; }  /* Example color for CN */
+.lib { background-color: #f2f0d5; }  /* Example color for LIB */
+.coun { background-color: #d5f2f1; }  /* Example color for COUN */
+.nptel { background-color: #f2d7d5; }  /* Example color for NPTEL */
