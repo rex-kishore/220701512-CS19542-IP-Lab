@@ -1,0 +1,174 @@
+/* .custom-bg-light-green {background-color: #D1FAE5;} */
+/* .custom-bg-light-green {background-color: #77DD77;} */
+
+body{
+    /* background-color: #F8F8F8; */
+    background-color: #D0F0C0;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.hero-section {
+    background-image: url('img/bestseller-1.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    border-radius: 8px;
+}
+
+@media (min-width: 768px) {
+    .hero-section {
+        background-image: url('image-medium.jpg');
+    }
+}
+
+@media (min-width: 1200px) {
+    .hero-section {
+        background-image: url('img/bg02.jpg');
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+}
+
+.card-body {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card-body:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: #28a745; /* Ensure the background color is set */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+footer a:hover {
+    color: #ffcc00; /* Change the color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
+
+footer .social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+footer .social-icons a:hover {
+    transform: scale(1.2); /* Scale up the icon on hover */
+    color: #ffcc00; /* Change the icon color on hover */
+}
+
+footer .social-icons a:hover i {
+    color: #ffcc00; /* Change the icon color on hover */
+}
+
+footer .footer-links a {
+    margin: 0 10px;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+footer .footer-links a:hover {
+    color: #ffcc00; /* Change the color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* SIGN PAGE CSS START HERE Mr. Kishore Kumar */
+
+.signin-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.signin-container {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    transition: transform 0.3s;
+}
+
+.signin-container h1 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+/* .form-wrapper {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.form-wrapper.active {
+    opacity: 1;
+    transform: translateY(0);
+} */
+
+.form-wrapper {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.form-wrapper.active {
+    display: block;
+    opacity: 1;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn-custom {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+    width: 100%;
+}
+
+.btn-custom:hover {
+    background-color: #45a049;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
+
+.text-link {
+    color: #007bff;
+    cursor: pointer;
+}
+
+.toggle-link {
+    color: #007bff;
+    cursor: pointer;
+}
+
+#bgpic{
+    background-image: url('Images/bg02.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

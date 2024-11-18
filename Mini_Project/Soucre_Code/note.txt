@@ -1,0 +1,120 @@
+Choosing Plants for Home
+│
+├── Environmental Conditions
+│   ├── Sunlight Exposure
+│   │   ├── Full Sun
+│   │   ├── Partial Shade
+│   │   └── Full Shade
+│   ├── Temperature
+│   │   ├── Indoor Climate
+│   │   └── Seasonal Changes
+│   └── Humidity Levels
+│       ├── Low Humidity
+│       ├── Moderate Humidity
+│       └── High Humidity
+│
+├── Space and Location
+│   ├── Available Space
+│   │   ├── Indoor (e.g., tabletop, floor, hanging)
+│   │   └── Outdoor (e.g., garden, patio, balcony)
+│   └── Plant Size
+│       ├── Small (e.g., succulents)
+│       ├── Medium (e.g., ferns)
+│       └── Large (e.g., trees)
+│
+├── Maintenance Requirements
+│   ├── Watering Needs
+│   │   ├── Low Water
+│   │   ├── Moderate Water
+│   │   └── High Water
+│   ├── Soil Type
+│   │   ├── Well-draining Soil
+│   │   └── Moisture-retaining Soil
+│   └── Fertilization
+│       ├── Low Fertilizer Requirement
+│       ├── Regular Fertilization
+│       └── Frequent Fertilization
+│
+├── Aesthetic Preferences
+│   ├── Color
+│   │   ├── Foliage Color (green, variegated)
+│   │   └── Flower Color (red, yellow, blue)
+│   ├── Texture
+│   │   ├── Smooth
+│   │   ├── Fuzzy
+│   │   └── Waxy
+│   └── Shape
+│       ├── Round
+│       ├── Tall
+│       └── Spreading
+│
+├── Plant Type and Characteristics
+│   ├── Plant Type
+│   │   ├── Flowering Plants
+│   │   ├── Foliage Plants
+│   │   └── Edible Plants (e.g., herbs, vegetables)
+│   └── Growth Habit
+│       ├── Climbing/Vining
+│       ├── Bushy
+│       └── Spreading
+│
+├── Purpose
+│   ├── Decorative
+│   ├── Air Purifying
+│   ├── Edible (e.g., herbs, vegetables)
+│   └── Medicinal
+│
+├── Allergies and Sensitivities
+│   ├── Pet-friendly Plants
+│   └── Non-allergenic Plants
+│
+├── Eco-friendliness
+│   ├── Native Plants
+│   ├── Plants that Support Local Wildlife
+│   └── Sustainable Sourcing
+│
+└── Cost
+    ├── Initial Purchase Price
+    └── Long-term Care Costs (fertilizers, soil, etc.)
+
+1. Environmental Conditions
+    1. Full Sun
+    2. Partial Sun
+    3. Full Shade
+
+2. Space and Location
+    1. Indoor
+    2. Outdoor
+
+3. Maintenance Requirement
+    1. Low Water
+    2. Moderate Water
+    3. High Water
+
+4. Aesthetic Preferences
+    1. green
+    2. variegated
+    3. red
+
+5. Plant type and Characteristics
+     1. Flowering Plants
+     2. Foliage Plants
+     3. Edible Plants
+
+6. Purpose
+     1. Decorative
+     2. Air Purifying
+     3. Edible
+     4. Medicinal
+
+7. Allergies and Sensitivities
+    1. Pet-friendly Plants
+    2. Non-allergenic Plants
+
+8. Eco-friendliness
+    1. Native Plants
+    2. Sustainable Sourcing
+
+9. Economic Considerations
+    1. Initial Purchase Price
+    2. Long-term Care Costs

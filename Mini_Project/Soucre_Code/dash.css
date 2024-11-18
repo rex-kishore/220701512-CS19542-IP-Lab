@@ -1,0 +1,41 @@
+.card-title {
+    font-family: 'Caveat', cursive;
+    color: #28a745;
+    font-size: 1.5rem;
+}
+
+.text-link {
+    color: #28a745;
+    text-decoration: none;
+}
+
+.text-link:hover {
+    text-decoration: underline;
+}
+
+.map-placeholder {
+    border-radius: 8px;
+}
+
+.profile-section .btn-custom, .btn-outline-success {
+    border-radius: 20px;
+}
+
+.shadow-sm {
+    border-radius: 8px;
+}
+
+body{
+    /* background-color: #F8F8F8; */
+    background-color: #D0F0C0;
+}
+
+.card-body-custum{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rounded-circle {
+    border: 3px solid #28a745; /* Optional: Add a border with your theme color */
+}
